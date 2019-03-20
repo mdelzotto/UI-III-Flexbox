@@ -209,3 +209,74 @@ footer {
   text-align: center;
   font-size: 14px;
 }
+
+.services-header-img {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+/* Services */
+
+h1 {
+	font-size: 30px;
+}
+
+.top p {
+	margin-bottom: 10px;
+	padding-bottom: 30px;
+	line-height: 1.25;
+	border-bottom: 1px solid black;
+}
+
+.main {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	flex-wrap: wrap;
+	padding-bottom: 15px;
+	border-bottom: 2px solid black;
+}
+
+.main section {
+	width: 45%;
+	height: 250px;
+	padding: 20px;
+	border: 1px solid black;
+	margin: 20px;
+	background-color: #F4F3F4;
+	line-height: 1.25;
+}
+
+section button {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 20px;
+	border-radius: 5px;
+	border: 1px solid black;
+}
+
+.bottom {
+	margin-top: 30px;
+	display: flex;
+}
+
+ul {
+	list-style-type: square;
+	line-height: 1.75;
+	padding: 20px;
+}
+
+.text-cont {
+	width: 50%;
+	margin-right: 20px;
+}
+
+.text-cont p {
+	line-height: 1.25;
+}
+
+.bottom img {
+	margin-left: 40px;
+}
